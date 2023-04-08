@@ -1,0 +1,9 @@
+nav{background-color: red; color: white; padding: 14px 16px; font-size: 30px; font-family: roboto;}
+body{background-color: whitesmoke;}
+h1{background-color: green; text-align: center; color:white; font-size:40px; font-family: roboto}
+p {font-size: 20px; font-family: roboto;}
+button {background-color: green; color: white; display: inline-block; button}
+table, th, td { background-color: green; color: white; font-family: roboto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
